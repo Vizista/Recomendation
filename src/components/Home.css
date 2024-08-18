@@ -1,0 +1,22 @@
+ 
+
+  .hero-section {
+    background-image: url('../backpic.png'); 
+    background-size: cover;
+    background-position: center;
+    color: rgb(216, 221, 207);
+    text-align: center;
+    height: 400px;
+    position: relative;
+  }
+  
+  .overlay {
+    background-color: rgba(118, 55, 94, 0.497);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
